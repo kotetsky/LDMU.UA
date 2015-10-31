@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'Alex_Zeka';
-	public $password = 'Logik_Zeka';
-	public $db = 'lviv_ldmu';
+	public $host = '213.174.0.27:3306';
+	public $user = 'alex';
+	public $password = '24Alex56';
+	public $db = 'ldmunew';
 	public $dbprefix = 'emh7o_';
 	public $live_site = '';
 	public $secret = 'HW9jVXhOvlS0AwGe';
