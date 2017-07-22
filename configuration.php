@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 class JConfig {
 	public $offline = '0';
 	public $offline_message = 'Сайт закрыт на техническое обслуживание.<br /> Пожалуйста, зайдите позже.';
@@ -13,8 +13,8 @@ class JConfig {
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
 	public $host = '213.174.0.27:3306';
-	public $user = 'alex';
-	public $password = '24Alex56';
+	public $user = 'root';
+	public $password = '24Spikart56';
 	public $db = 'ldmunew';
 	public $dbprefix = 'emh7o_';
 	public $live_site = '';
