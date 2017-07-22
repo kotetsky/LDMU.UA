@@ -1,0 +1,1588 @@
+# Webalizer V2.01-10 Incremental Data - 12/31/2015 21:45:48
+2015 12 31 21 45 48
+7875 6124 172 281 105 69 620586533 2729 1114 0 0 0
+14 10 441 1 31
+345 230 32805106 15 89 44 0 0
+592 419 61273544 16 156 51 0 0
+225 213 16455628 20 76 33 0 0
+304 289 37304644 21 79 41 0 0
+35 20 169224 6 35 29 0 0
+30 27 230917 8 30 25 0 0
+349 303 39789832 12 68 29 0 0
+765 514 67228644 16 159 27 0 0
+296 264 24380350 14 60 29 0 0
+298 206 51479026 12 61 26 0 0
+181 165 16750107 15 84 29 0 0
+144 124 8306310 14 64 35 0 0
+22 13 131548 8 22 19 0 0
+171 103 6500248 11 24 18 0 0
+218 176 22774479 10 38 23 0 0
+233 194 15684599 13 83 43 0 0
+108 105 9438721 10 42 32 0 0
+589 434 45348949 19 171 55 0 0
+113 90 4756878 15 75 59 0 0
+77 64 4871728 14 38 32 0 0
+299 213 13601221 12 106 38 0 0
+203 99 6658532 11 64 39 0 0
+59 43 1322925 11 37 33 0 0
+232 214 18177175 16 38 29 0 0
+402 340 20683744 18 148 75 0 0
+44 34 307778 6 44 34 0 0
+0 0 0 0 0 0 0 0
+344 288 12647562 15 119 29 0 0
+1020 769 74821433 13 615 83 0 0
+109 104 5772779 14 52 38 0 0
+68 67 912902 14 52 37 0 0
+197 122 19583728 50 0 0
+74 64 1726818 51 0 0
+43 29 243177 43 0 0
+72 60 1711485 47 0 0
+43 32 293218 43 0 0
+41 24 215908 41 0 0
+44 29 263059 44 0 0
+37 27 232949 37 0 0
+51 32 1469391 39 0 0
+598 443 43546100 182 0 0
+1013 707 73963519 201 0 0
+666 450 50081633 185 0 0
+1026 692 72380903 456 0 0
+191 174 10916540 96 0 0
+327 299 38619394 116 0 0
+861 513 40615323 290 0 0
+546 499 47391273 133 0 0
+256 234 41878872 104 0 0
+221 212 10664677 88 0 0
+460 446 76231534 124 0 0
+103 83 1766149 61 0 0
+436 417 32305650 111 0 0
+371 350 32176797 113 0 0
+198 186 22308436 74 0 0
+48
+0
+0
+6124
+0
+0
+0
+0
+0
+32
+0
+16
+0
+151
+1160
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+335
+0
+0
+0
+1
+0
+# -urls- 
+/images/flag.jpg
+1 7 0 275460 0 0 0 0
+/images/banners/osmbanner2.png
+1 2 0 7312 0 0 0 0
+/images/documents/rules/rules21.jpg
+1 3 0 1598346 0 0 0 0
+/images/tvorchi_kolektyvy/folk_instruments_01.jpg
+1 7 0 948600 0 0 0 0
+/media/plg_quickicon_joomlaupdate/js/jupdatecheck.js
+0 11 0 10492 0 0 0 0
+/
+0 1550 0 15303305 1105 715 0 0
+/images/vid_solo/solo_02.jpg
+1 22 0 958293 0 0 0 0
+/images/headers/macbook.png
+1 1 0 255584 0 0 0 0
+/images/vid_forte_piano/fortepiano_01.jpg
+1 16 0 420752 0 0 0 0
+/images/oficial_info/rozklad_consult.jpg
+1 2 0 422816 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/3-3-3-3.png
+1 1 0 1548 0 0 0 0
+/media/jui/js/sortablelist.js
+0 3 0 19846 0 0 0 0
+/images/documents/rules/rules9.jpg
+1 4 0 1400800 0 0 0 0
+/plugins/system/helix3/assets/js/modal.js
+0 1 0 6945 0 0 0 0
+/images/tvorchi_kolektyvy/choir_01.jpg
+1 4 0 51240 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/4-4-4.png
+1 1 0 1525 0 0 0 0
+/media/jui/css/chosen-sprite.png
+1 16 0 2580 0 0 0 0
+/templates/shaper_helix3/js/main.js
+0 126 0 365976 0 0 0 0
+/images/documents/comissia/st9.jpg
+1 2 0 1772356 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/3-9.png
+1 1 0 1587 0 0 0 0
+/images/banners/osmbanner1.png
+1 2 0 7266 0 0 0 0
+/images/administrations/admin_06.jpg
+1 14 0 2172744 0 0 0 0
+/media/jui/css/bootstrap.min.css
+0 1 0 106251 0 0 0 0
+/images/documents/rules/rules20.jpg
+1 3 0 1453138 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/12.png
+1 1 0 1347 0 0 0 0
+/plugins/system/helix3/assets/fonts/fontawesome-webfont.woff2
+0 7 0 257856 0 0 0 0
+/media/system/js/calendar.js
+0 12 0 120332 0 0 0 0
+/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/img/menu_check.gif
+1 3 0 140 0 0 0 0
+/images/footer-logo.png
+1 7 0 17625 0 0 0 0
+/images/kolektyvy/big-band.jpg
+1 78 0 13859036 0 0 0 0
+/images/vid_solo/solo_01.jpg
+1 23 0 3820572 0 0 0 0
+/images/tvorchi_kolektyvy/girls_dreams_02.jpg
+1 6 0 15580740 0 0 0 0
+/images/iphone.jpg
+1 7 0 59391 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/4-4-4-12.png
+1 1 0 2026 0 0 0 0
+/media/system/css/calendar-jos.css
+0 12 0 16328 0 0 0 0
+/images/documents/rules/rules8.jpg
+1 4 0 1271928 0 0 0 0
+/templates/shaper_helix3/fonts/IcoMoon.ttf
+0 3 0 75132 0 0 0 0
+/images/headers/walden-pond.jpg
+1 1 0 23526 0 0 0 0
+/administrator/
+0 577 0 13784345 2 3 0 0
+/plugins/system/helix3/assets/images/megamenu/4-4-4-6-6.png
+1 1 0 2143 0 0 0 0
+/images/documents/comissia/st8.jpg
+1 2 0 2029430 0 0 0 0
+/plugins/content/videobox/videobox.js
+0 6 0 38808 0 0 0 0
+/media/media/css/popup-imagelist.css
+0 4 0 2378 0 0 0 0
+/images/vid_music_theor/music_theory_02.jpg
+1 16 0 797792 0 0 0 0
+/images/administrations/admin_05.jpg
+1 14 0 2965326 0 0 0 0
+/images/headers/iphone.png
+1 1 0 303220 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_019.jpg
+1 10 0 4873167 0 0 0 0
+/components/com_sppagebuilder/assets/fonts/fontawesome-webfont.eot
+0 5 0 303835 0 0 0 0
+/images/headers/header_bg.jpg
+1 1 0 614960 0 0 0 0
+/images/tvorchi_kolektyvy/girls_dreams_01.jpg
+1 10 0 1521963 0 0 0 0
+/images/documents/rules/rules7.jpg
+1 4 0 1100426 0 0 0 0
+/media/jui/js/jquery.minicolors.min.js
+0 1 0 15939 0 0 0 0
+/plugins/system/helix3/assets/css/modal.css
+0 1 0 14375 0 0 0 0
+/images/documents/comissia/st7.jpg
+1 2 0 1516948 0 0 0 0
+/media/system/images/modal/closebox.png
+1 4 0 2194 0 0 0 0
+/images/vid_music_theor/music_theory_01.jpg
+1 16 0 321696 0 0 0 0
+/images/administrations/admin_04.jpg
+1 14 0 358862 0 0 0 0
+/images/vid_gen_pian/general_piano_02.jpg
+1 14 0 556234 0 0 0 0
+/templates/shaper_helix3/css/presets/preset4.css
+0 124 0 231642 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_018.jpg
+1 10 0 6561909 0 0 0 0
+/images/documents/rules/rules6.jpg
+1 4 0 1194146 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/2-2-2-2-2-2.png
+1 1 0 1557 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_029.jpg
+1 10 0 2497644 0 0 0 0
+/images/headers/blue-flower.jpg
+1 1 0 38670 0 0 0 0
+/images/documents/comissia/st6.jpg
+1 2 0 1377132 0 0 0 0
+/media/jui/css/chosen.css
+0 16 0 55392 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/3-3-3-3-12.png
+1 1 0 2084 0 0 0 0
+/images/administrations/admin_03.jpg
+1 14 0 179340 0 0 0 0
+/media/system/css/mootree.css
+0 4 0 1038 0 0 0 0
+/images/vid_gen_pian/general_piano_01.jpg
+1 14 0 336028 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_017.jpg
+1 10 0 6658461 0 0 0 0
+/plugins/content/videobox/showthumb.php
+0 91 0 2562999 0 0 0 0
+/templates/shaper_helix3/css/frontend-edit.css
+0 1 0 2331 0 0 0 0
+/images/documents/rules/rules5.jpg
+1 3 0 1046048 0 0 0 0
+/plugins/content/videobox/css/closelabel.gif
+1 4 0 3884 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_028.jpg
+1 10 0 4074651 0 0 0 0
+/components/com_jce/editor/libraries/jquery/css/images/icon_sprite.png
+1 1 0 3217 0 0 0 0
+/components/com_sppagebuilder/assets/css/animate.min.css
+0 77 0 4567920 0 0 0 0
+/images/documents/comissia/st5.jpg
+1 2 0 1478020 0 0 0 0
+/images/scholl.png
+1 77 0 1204196 0 0 0 0
+/media/jui/img/jquery.minicolors.png
+1 1 0 69473 0 0 0 0
+/images/shortcode.png
+1 7 0 167322 0 0 0 0
+/images/history/history_02.jpg
+1 9 0 1710369 0 0 0 0
+/images/administrations/admin_02.jpg
+1 14 0 372078 0 0 0 0
+/administrator/templates/isis/css/template.css
+0 31 0 1461264 0 0 0 0
+/media/system/js/calendar-setup.js
+0 12 0 12360 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_016.jpg
+1 10 0 6557481 0 0 0 0
+/images/vid_conc_clas/concertmaster_02.jpg
+1 15 0 668370 0 0 0 0
+/images/documents/rules/rules4.jpg
+1 3 0 1559246 0 0 0 0
+/images/tvorchi_kolektyvy/orchestra_04.jpg
+1 3 0 465414 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_027.jpg
+1 10 0 2770281 0 0 0 0
+/images/sunrise.jpg
+1 7 0 1424085 0 0 0 0
+/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/img/progress.gif
+1 1 0 1785 0 0 0 0
+/images/documents/comissia/st4.jpg
+1 2 0 1328270 0 0 0 0
+/images/documents/comissia/titul.jpg
+1 2 0 587102 0 0 0 0
+/media/system/js/punycode.js
+0 12 0 10692 0 0 0 0
+/templates/shaper_helix3/css/legacy.css
+0 124 0 2904348 0 0 0 0
+/images/history/history_01.jpg
+1 9 0 2146239 0 0 0 0
+/images/administrations/admin_01.jpg
+1 14 0 328230 0 0 0 0
+/media/jui/fonts/IcoMoon.woff
+0 20 0 101696 0 0 0 0
+/images/menu/Home_white_25.png
+1 1 0 3750 0 0 0 0
+/images/one_1_white.jpg
+1 77 0 56247530 0 0 0 0
+/media/system/css/modal.css
+0 14 0 13228 0 0 0 0
+/images/vid_chor_cond/choral_conducting_02.jpg
+1 15 0 361500 0 0 0 0
+/images/joomla_green.gif
+1 7 0 9429 0 0 0 0
+/administrator/modules/mod_sppagebuilder_icons/tmpl/images/page.png
+1 11 0 5612 0 0 0 0
+/images/history.png
+1 77 0 1644126 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_015.jpg
+1 10 0 6266817 0 0 0 0
+/images/vid_conc_clas/concertmaster_01.jpg
+1 15 0 257700 0 0 0 0
+/images/documents/rules/rules3.jpg
+1 3 0 1350282 0 0 0 0
+/images/tvorchi_kolektyvy/orchestra_03.jpg
+1 3 0 429756 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_026.jpg
+1 10 0 3147741 0 0 0 0
+/components/com_sppagebuilder/assets/css/sppagebuilder.css
+0 77 0 4078680 0 0 0 0
+/images/kolektyvy/student-mixed-choir.jpg
+1 77 0 12805011 0 0 0 0
+/media/jui/js/jquery.ui.core.min.js
+0 3 0 42436 0 0 0 0
+/images/documents/comissia/st3.jpg
+1 2 0 1411276 0 0 0 0
+/media/jui/js/jquery.ui.sortable.min.js
+0 3 0 48870 0 0 0 0
+/media/system/js/mootools-core.js
+0 16 0 336288 0 0 0 0
+/images/logo1.png
+1 7 0 4779 0 0 0 0
+/templates/shaper_helix3/js/bootstrap.min.js
+0 127 0 3689200 0 0 0 0
+/templates/shaper_helix3/fonts/fontawesome-webfont.woff2
+0 86 0 5028192 0 0 0 0
+/images/documents/rules/rules19.jpg
+1 3 0 1618768 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_09.jpg
+1 10 0 6731073 0 0 0 0
+/images/vid_chor_cond/choral_conducting_01.jpg
+1 15 0 378795 0 0 0 0
+/images/tvorchi_kolektyvy/teachers_choir.jpg
+1 9 0 2003990 0 0 0 0
+/media/jui/js/jquery.min.js
+0 134 0 9884086 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_014.jpg
+1 10 0 6433353 0 0 0 0
+/templates/shaper_helix3/fonts/fontawesome-webfont.woff
+0 5 0 406420 0 0 0 0
+/plugins/content/videobox/css/videobox.css
+0 6 0 13242 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/6-6.png
+1 1 0 1475 0 0 0 0
+/media/system/js/validate.js
+0 12 0 11848 0 0 0 0
+/plugins/content/videobox/css/shadowAlpha.png
+1 6 0 20418 0 0 0 0
+/images/documents/rules/rules2.jpg
+1 3 0 1448552 0 0 0 0
+/administrator/templates/isis/favicon.ico
+0 12 0 20190 0 0 0 0
+/images/tvorchi_kolektyvy/orchestra_02.jpg
+1 3 0 431118 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_025.jpg
+1 10 0 3899043 0 0 0 0
+/components/com_jce/editor/tiny_mce/themes/advanced/img/icons.png
+1 12 0 39152 0 0 0 0
+/images/tvorchi_kolektyvy/big_band_01.jpg
+1 7 0 200753 0 0 0 0
+/images/tvorchi_kolektyvy/bandura_03.jpg
+1 3 0 461865 0 0 0 0
+/images/documents/comissia/st2.jpg
+1 2 0 1345734 0 0 0 0
+/images/powered_by.png
+1 7 0 6789 0 0 0 0
+/plugins/system/helix3/assets/js/post-formats.js
+0 12 0 7148 0 0 0 0
+/plugins/system/helix3/assets/css/menu.generator.css
+0 1 0 3483 0 0 0 0
+/images/documents/rules/rules18.jpg
+1 3 0 1423648 0 0 0 0
+/images/1.jpg
+1 7 0 6585 0 0 0 0
+/images/kolektyvy/dream-girls.jpg
+1 79 0 13543650 0 0 0 0
+/plugins/system/helix3/assets/js/jquery-ui.draggable.min.js
+0 1 0 31951 0 0 0 0
+/media/system/js/mootools-more.js
+0 16 0 950576 0 0 0 0
+/components/com_sppagebuilder/assets/js/sppagebuilder.js
+0 77 0 4461360 0 0 0 0
+/media/jui/js/jquery-noconflict.js
+0 138 0 2354 0 0 0 0
+/images/logo-retina.png
+1 7 0 16308 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_08.jpg
+1 10 0 6755256 0 0 0 0
+/media/media/js/mediamanager.min.js
+0 4 0 4204 0 0 0 0
+/templates/shaper_helix3/fonts/IcoMoon.woff
+0 67 0 1372896 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_013.jpg
+1 10 0 6100506 0 0 0 0
+/media/media/images/dots.gif
+1 4 0 302 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/4-8.png
+1 1 0 1565 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/6-6-12.png
+1 1 0 1986 0 0 0 0
+/images/tvorchi_kolektyvy/orchestra_01.jpg
+1 9 0 1511109 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_024.jpg
+1 10 0 2886975 0 0 0 0
+/images/banners/shop-ad.jpg
+1 2 0 27408 0 0 0 0
+/images/one_2.jpg
+1 79 0 9555003 0 0 0 0
+/images/kolektyvy/brass-band.jpg
+1 77 0 12871669 0 0 0 0
+/images/tvorchi_kolektyvy/bandura_02.jpg
+1 3 0 376923 0 0 0 0
+/images/documents/comissia/st1.jpg
+1 2 0 1033996 0 0 0 0
+/images/documents/rules/rules17.jpg
+1 3 0 1493140 0 0 0 0
+/images/documents/vcredist.bmp
+0 1 0 5686 0 0 0 0
+/images/documents/license_add2.jpg
+1 7 0 6308637 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_07.jpg
+1 10 0 6514875 0 0 0 0
+/media/jui/css/jquery.minicolors.css
+0 1 0 6871 0 0 0 0
+/media/system/js/core.js
+0 30 0 44605 0 0 0 0
+/plugins/system/helix3/assets/css/bootstrap.css
+0 1 0 23694 0 0 0 0
+/images/google_font.png
+1 7 0 72162 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_012.jpg
+1 10 0 5905377 0 0 0 0
+/administrator/modules/mod_sppagebuilder_icons/tmpl/css/pagebuilder-style.css
+0 11 0 6048 0 0 0 0
+/templates/shaper_helix3/css/font-awesome.min.css
+0 124 0 2724930 0 0 0 0
+/images/documents/acreditation_sert2.jpg
+1 6 0 1229790 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_023.jpg
+1 10 0 2298456 0 0 0 0
+/images/tvorchi_kolektyvy/brass_band_03.jpg
+1 3 0 345033 0 0 0 0
+/images/vid_gen_subj/general_subjects_02.jpg
+1 13 0 1333397 0 0 0 0
+/administrator/templates/isis/images/joomla.png
+1 12 0 99464 0 0 0 0
+/images/tvorchi_kolektyvy/bandura_01.jpg
+1 7 0 800695 0 0 0 0
+/images/vid_violin_instr/violin_02.jpg
+1 13 0 15677532 0 0 0 0
+/images/banners/white.png
+1 2 0 11208 0 0 0 0
+/images/documents/rules/rules16.jpg
+1 3 0 1383430 0 0 0 0
+/images/banners/shop-ad-books.jpg
+1 2 0 29216 0 0 0 0
+/images/documents/license_add1.jpg
+1 7 0 10458075 0 0 0 0
+/images/documents/rules/rulestitul.jpg
+1 3 0 586922 0 0 0 0
+/media/system/js/html5fallback.js
+0 15 0 32390 0 0 0 0
+/images/logo.png
+1 7 0 21123 0 0 0 0
+/images/background.png
+1 7 0 24237 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_06.jpg
+1 10 0 5315580 0 0 0 0
+/images/favicon.ico
+0 7 0 3450 0 0 0 0
+/images/logo/logo_01.png
+1 75 0 2103312 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_011.jpg
+1 10 0 6914646 0 0 0 0
+/media/jui/js/jquery.searchtools.min.js
+0 7 0 30296 0 0 0 0
+/images/documents/acreditation_sert1.jpg
+1 6 0 7545024 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_022.jpg
+1 10 0 2342664 0 0 0 0
+/images/tvorchi_kolektyvy/brass_band_02.jpg
+1 3 0 442701 0 0 0 0
+/images/vid_gen_subj/general_subjects_01.jpg
+1 13 0 228319 0 0 0 0
+/images/vid_violin_instr/violin_01.jpg
+1 13 0 302952 0 0 0 0
+/images/vid_pop_music/pop_music_02.jpg
+1 17 0 2596070 0 0 0 0
+/media/jui/css/jquery.searchtools.css
+0 7 0 8950 0 0 0 0
+/images/documents/rules/rules15.jpg
+1 3 0 1104594 0 0 0 0
+/media/system/js/modal.js
+0 14 0 40536 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_05.jpg
+1 10 0 5614974 0 0 0 0
+/images/favicon/favicon.ico
+0 90 0 100050 0 0 0 0
+/images/administrator_lud.png
+1 78 0 1985763 0 0 0 0
+/templates/shaper_helix3/css/bootstrap.min.css
+0 127 0 10946034 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_010.jpg
+1 10 0 6191640 0 0 0 0
+/templates/shaper_helix3/js/jquery.sticky.js
+0 125 0 608833 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_021.jpg
+1 10 0 2680632 0 0 0 0
+/images/tvorchi_kolektyvy/brass_band_01.jpg
+1 7 0 571921 0 0 0 0
+/images/headers/raindrops.jpg
+1 1 0 24416 0 0 0 0
+/components/com_jce/editor/tiny_mce/plugins/article/img/readmore.png
+1 3 0 373 0 0 0 0
+/images/vid_pop_music/pop_music_01.jpg
+1 17 0 272748 0 0 0 0
+/images/kolektyvy/teachers-choir.jpg
+1 74 0 12769302 0 0 0 0
+/images/documents/rules/rules14.jpg
+1 3 0 1290448 0 0 0 0
+/media/jui/js/jquery-migrate.min.js
+0 135 0 748800 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_04.jpg
+1 10 0 6497622 0 0 0 0
+/images/joomla_black.gif
+1 7 0 11238 0 0 0 0
+/images/documents/license2.jpg
+1 6 0 6299424 0 0 0 0
+/plugins/system/helix3/assets/css/font-awesome.min.css
+0 12 0 106860 0 0 0 0
+/images/menu/Lock_white_25.png
+1 1 0 3613 0 0 0 0
+/images/headers/windows.jpg
+1 1 0 35949 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_020.jpg
+1 10 0 3893049 0 0 0 0
+/components/com_sppagebuilder/assets/css/font-awesome.min.css
+0 77 0 1424520 0 0 0 0
+/images/headers/maple.jpg
+1 1 0 35277 0 0 0 0
+/images/documents/rules/rules13.jpg
+1 3 0 1419526 0 0 0 0
+/plugins/system/helix3/assets/js/menu.generator.js
+0 1 0 10365 0 0 0 0
+/images/vid_folk_instr/folk_02.jpg
+1 16 0 817696 0 0 0 0
+/images/vid_wind_instr/wind_02.jpg
+1 14 0 550074 0 0 0 0
+/images/tvorchi_kolektyvy/students_mixed_choir_02.jpg
+1 1 0 40605 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_03.jpg
+1 10 0 6209856 0 0 0 0
+/images/logo_shield.png
+1 7 0 10194 0 0 0 0
+/images/documents/license1.jpg
+1 6 0 8263811 0 0 0 0
+/images/shield-logo.png
+1 7 0 6126 0 0 0 0
+/images/kolektyvy/orchestra-of-folk-nstruments.jpg
+1 77 0 13181250 0 0 0 0
+/media/jui/js/ajax-chosen.min.js
+0 12 0 11348 0 0 0 0
+/images/logo/logo_ldmu.png
+1 122 0 2881800 0 0 0 0
+/media/jui/js/chosen.jquery.min.js
+0 16 0 103272 0 0 0 0
+/images/kolektyvy/symphonic-and-chamber-orchestra.jpg
+1 78 0 13645277 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_030.jpg
+1 10 0 1749042 0 0 0 0
+/templates/shaper_helix3/fonts/fontawesome-webfont.eot
+0 10 0 688750 0 0 0 0
+/images/kolektyvy/bandurist.jpg
+1 80 0 14182112 0 0 0 0
+/images/documents/rules/rules12.jpg
+1 3 0 1375458 0 0 0 0
+/components/com_jce/editor/libraries/jquery/css/images/ui-icons_454545_256x240.png
+1 1 0 4369 0 0 0 0
+/media/system/js/repeatable.js
+0 12 0 24432 0 0 0 0
+/images/zo2-logo-red.png
+1 7 0 17538 0 0 0 0
+/images/vid_folk_instr/folk_01.jpg
+1 16 0 297968 0 0 0 0
+/images/vid_wind_instr/wind_01.jpg
+1 15 0 286785 0 0 0 0
+/images/tvorchi_kolektyvy/students_mixed_choir_01.jpg
+1 7 0 1545160 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_02.jpg
+1 10 0 8110953 0 0 0 0
+/media/plg_quickicon_extensionupdate/js/extensionupdatecheck.js
+0 11 0 8948 0 0 0 0
+/images/tvorchi_kolektyvy/folk_instruments_03.jpg
+1 2 0 284410 0 0 0 0
+/components/com_jce/editor/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif
+1 3 0 136 0 0 0 0
+/administrator/modules/mod_sppagebuilder_icons/tmpl/images/pages.png
+1 11 0 6320 0 0 0 0
+/administrator/templates/isis/images/logo.png
+1 17 0 38532 0 0 0 0
+/media/media/css/popup-imagemanager.css
+0 4 0 6546 0 0 0 0
+/images/fon/one_s.jpg
+1 74 0 34310031 0 0 0 0
+/media/media/js/popup-imagemanager.js
+0 4 0 14036 0 0 0 0
+/images/documents/rules/rules11.jpg
+1 4 0 1532944 0 0 0 0
+/components/com_jce/editor/libraries/jquery/css/images/ui-icons_222222_256x240.png
+1 1 0 4369 0 0 0 0
+/images/dok_prav_vstup/dok_prav_vstup_01.jpg
+1 10 0 3175416 0 0 0 0
+/images/documents/rules/rules22.jpg
+1 3 0 540782 0 0 0 0
+/images/tvorchi_kolektyvy/folk_instruments_02.jpg
+1 2 0 350012 0 0 0 0
+/images/menu/Home_red_25.png
+1 1 0 3425 0 0 0 0
+/media/system/js/caption.js
+0 88 0 36630 0 0 0 0
+/images/joomla_logo_black.jpg
+1 7 0 25506 0 0 0 0
+/media/system/js/multiselect.js
+0 8 0 2175 0 0 0 0
+/images/vid_forte_piano/fortepiano_02.jpg
+1 16 0 1707552 0 0 0 0
+/templates/shaper_helix3/fonts/fontawesome-webfont.ttf
+0 1 0 138204 0 0 0 0
+/media/system/js/tabs-state.js
+0 14 0 7524 0 0 0 0
+/images/menu/Lock_red_25.png
+1 1 0 3240 0 0 0 0
+/media/jui/js/bootstrap.min.js
+0 20 0 116652 0 0 0 0
+/media/jui/css/sortablelist.css
+0 3 0 9087 0 0 0 0
+/administrator/templates/isis/js/template.js
+0 25 0 48160 0 0 0 0
+/templates/shaper_helix3/css/template.css
+0 124 0 4446792 0 0 0 0
+/images/documents/rules/rules10.jpg
+1 4 0 1477716 0 0 0 0
+/templates/shaper_helix3/fonts/IcoMoon.eot
+0 9 0 226872 0 0 0 0
+/plugins/system/helix3/assets/images/megamenu/5-7.png
+1 1 0 1585 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.73.151
+0 55 40 373550 31 1451140878
+- 0 0
+95.134.27.64
+0 3 2 11693 2 1450866870
+- 0 0
+141.8.142.28
+0 4 4 34729 4 1451586448
+/ 0 0
+66.249.73.160
+0 54 46 387545 34 1451141273
+- 0 0
+66.249.73.169
+0 58 47 453400 36 1451140535
+- 0 0
+91.124.17.21
+0 84 82 21582930 1 1449251291
+- 0 0
+91.124.37.235
+0 2 0 1190 1 1449743280
+- 0 0
+46.118.152.188
+0 181 151 11242691 6 1449230739
+- 0 0
+91.124.0.230
+0 193 124 14458025 4 1449067330
+- 0 0
+46.246.57.36
+0 18 15 476449 1 1450130902
+- 0 0
+31.43.18.118
+0 19 19 552919 1 1451071650
+- 0 0
+37.73.234.247
+0 23 23 590732 1 1451300027
+- 0 0
+95.134.49.132
+0 456 314 38703728 3 1450456793
+- 0 0
+66.249.78.206
+0 18 16 126925 16 1449579821
+- 0 0
+66.249.79.250
+0 23 19 169242 20 1450957769
+- 0 0
+66.249.78.213
+0 22 13 105907 19 1450026794
+- 0 0
+194.44.128.131
+0 37 37 2678320 1 1449482996
+- 0 0
+37.73.244.212
+0 21 19 634706 1 1450400194
+- 0 0
+95.134.17.84
+0 277 210 16848283 3 1451382058
+- 0 0
+141.8.132.47
+0 21 18 119373 16 1451453316
+- 0 0
+213.179.252.130
+0 66 64 5421262 1 1449926551
+- 0 0
+217.118.79.30
+0 1 1 7071 1 1449055128
+- 0 0
+95.108.158.240
+0 23 19 933069 11 1450404918
+- 0 0
+66.249.67.248
+0 29 20 176941 22 1449203400
+- 0 0
+5.199.234.42
+0 88 88 7941351 1 1451083386
+- 0 0
+176.105.222.66
+0 80 79 3377035 1 1449179776
+- 0 0
+188.163.73.69
+0 17 17 499027 1 1451570988
+/ 0 0
+5.248.27.125
+0 5 5 36895 2 1449862767
+- 0 0
+66.249.93.143
+0 11 11 1959944 0 0
+- 0 0
+66.249.67.250
+0 1 1 8783 1 1449227167
+- 0 0
+66.249.93.147
+0 13 13 643662 1 1449003721
+- 0 0
+66.249.93.151
+0 10 10 1984049 0 0
+- 0 0
+37.73.207.138
+0 19 19 785187 1 1450092555
+- 0 0
+195.128.182.31
+0 104 101 7541367 1 1451330049
+- 0 0
+87.240.177.121
+0 2 2 52082 1 1451474129
+- 0 0
+195.154.194.111
+0 1 0 595 1 1451334993
+- 0 0
+95.134.76.80
+0 250 168 21377638 3 1449655836
+- 0 0
+94.153.170.82
+0 83 83 6819422 1 1451077969
+- 0 0
+46.133.181.84
+0 46 46 4877359 2 1451032399
+- 0 0
+93.75.192.254
+0 41 40 7351889 1 1449877659
+- 0 0
+46.118.117.86
+0 46 46 5060494 1 1450974949
+- 0 0
+178.154.149.1
+0 3 3 21112 2 1451380455
+- 0 0
+95.134.59.180
+0 21 20 927420 1 1449258791
+- 0 0
+195.22.112.68
+0 17 17 485854 1 1449069940
+- 0 0
+66.249.93.71
+0 2 2 9930 1 1450279939
+- 0 0
+37.140.189.234
+0 37 36 1746914 1 1449655818
+- 0 0
+37.140.141.14
+0 1 1 5057 1 1450652409
+- 0 0
+95.108.133.222
+0 24 23 857291 1 1449605125
+- 0 0
+5.45.192.93
+0 150 149 23761073 1 1449604675
+- 0 0
+95.134.10.72
+0 102 38 4594704 3 1450110920
+- 0 0
+95.132.29.59
+0 2 2 28413 1 1449495086
+- 0 0
+66.249.64.222
+0 16 12 93219 13 1451322872
+- 0 0
+66.249.64.227
+0 21 17 176393 15 1451322691
+- 0 0
+66.249.64.232
+0 18 13 92888 12 1451324532
+- 0 0
+31.148.255.19
+0 2 0 1190 1 1450567789
+- 0 0
+188.163.77.53
+0 84 84 19906698 1 1449086166
+- 0 0
+95.134.22.89
+0 36 36 4577144 1 1449138429
+- 0 0
+95.134.22.96
+0 71 71 9145508 5 1450368623
+- 0 0
+95.134.45.145
+0 142 55 5364675 2 1450798487
+- 0 0
+74.12.123.75
+0 19 19 534875 1 1451319320
+- 0 0
+95.134.23.171
+0 56 56 8686883 2 1449827750
+- 0 0
+95.134.45.156
+0 17 3 76063 3 1451058528
+- 0 0
+85.253.77.228
+0 1 1 19628 1 1449164805
+- 0 0
+95.134.48.13
+0 84 43 5218155 2 1449484919
+- 0 0
+95.132.20.59
+0 18 18 549252 1 1451333287
+- 0 0
+95.134.56.157
+0 99 26 976414 1 1450698174
+- 0 0
+92.112.248.82
+0 63 59 2898387 1 1450709197
+- 0 0
+95.134.55.122
+0 78 41 21311914 3 1451402664
+- 0 0
+66.102.9.60
+0 54 27 7372592 1 1449018019
+- 0 0
+95.134.55.130
+0 78 70 9123914 2 1450285024
+- 0 0
+46.119.115.170
+0 43 39 4665040 1 1450652016
+- 0 0
+66.102.9.71
+0 34 15 5494710 1 1449018016
+- 0 0
+109.87.58.244
+0 1 1 7114 1 1449164815
+- 0 0
+66.102.9.85
+0 34 18 4878152 1 1449018012
+- 0 0
+176.125.35.235
+0 19 19 711828 1 1449684851
+- 0 0
+185.26.180.169
+0 19 19 1001920 1 1450831649
+- 0 0
+185.94.219.6
+0 17 17 482035 1 1451402151
+- 0 0
+66.249.73.248
+0 36 31 244865 25 1451140722
+- 0 0
+104.197.215.124
+0 34 33 3583018 1 1449146774
+- 0 0
+31.184.238.200
+0 1 0 5 1 1449542227
+- 0 0
+95.134.66.170
+0 78 78 10362064 4 1449227782
+- 0 0
+66.249.65.37
+0 1 1 8780 1 1449842858
+- 0 0
+66.249.69.108
+0 29 21 208563 23 1451582095
+/ 0 0
+66.249.65.43
+0 1 0 5 1 1449842400
+- 0 0
+91.124.30.251
+0 69 65 18991670 1 1448990872
+- 0 0
+66.249.69.116
+0 30 21 184466 24 1451581231
+/ 0 0
+141.0.12.137
+0 29 29 2624196 1 1450992818
+- 0 0
+95.134.63.16
+0 42 8 219526 4 1451036931
+- 0 0
+66.249.69.121
+0 16 13 119203 13 1451561879
+/ 0 0
+66.249.69.122
+0 2 1 8971 2 1449602618
+- 0 0
+66.249.69.124
+0 8 1 10134 8 1449768250
+- 0 0
+95.134.38.228
+0 188 92 8016353 8 1448988382
+- 0 0
+95.134.61.89
+0 9 7 45281 2 1451480511
+- 0 0
+37.52.71.89
+0 101 101 8349498 4 1450661291
+- 0 0
+77.123.176.255
+0 37 37 2678356 1 1449944728
+- 0 0
+91.245.75.177
+0 20 20 560105 1 1451082352
+- 0 0
+95.134.37.215
+0 1 1 8781 1 1449164799
+- 0 0
+178.136.236.151
+0 1 1 64464 0 0
+- 0 0
+82.145.222.186
+0 49 49 2831667 1 1451085303
+- 0 0
+10.3.0.40
+0 93 93 28759668 1 1449775003
+- 0 0
+178.168.105.224
+0 2 2 10096 1 1449164812
+- 0 0
+66.249.79.129
+0 27 20 173581 27 1450960354
+- 0 0
+77.123.5.129
+0 59 59 5337070 1 1451473930
+- 0 0
+66.249.79.138
+0 22 15 130044 21 1450888401
+- 0 0
+93.75.227.26
+0 21 21 1091811 1 1450821914
+- 0 0
+40.78.146.128
+0 2 2 37978 1 1450857792
+- 0 0
+178.94.172.138
+0 40 40 4293429 1 1450560495
+- 0 0
+66.249.69.10
+0 25 14 141390 22 1451572102
+/ 0 0
+194.44.153.122
+0 55 52 5164612 1 1449679454
+- 0 0
+66.249.69.18
+0 23 14 109515 19 1451571889
+/ 0 0
+95.134.62.116
+0 93 62 8904193 3 1450195573
+- 0 0
+93.77.159.14
+0 111 111 9344455 1 1449486471
+- 0 0
+66.249.79.164
+0 21 10 91859 21 1450974152
+- 0 0
+66.249.67.133
+0 19 16 130956 19 1449227166
+- 0 0
+66.249.69.26
+0 19 13 108727 18 1451572428
+/ 0 0
+66.249.79.171
+0 15 8 71035 14 1450970933
+- 0 0
+64.246.165.140
+0 1 1 8780 1 1449384379
+- 0 0
+66.249.67.142
+0 11 9 74573 11 1449240635
+- 0 0
+66.249.78.134
+0 18 14 136784 17 1449572485
+- 0 0
+66.249.79.178
+0 16 9 115717 15 1450973543
+- 0 0
+66.249.67.151
+0 18 13 116466 16 1449209119
+- 0 0
+66.249.78.141
+0 19 12 105121 14 1449570455
+- 0 0
+66.249.78.148
+0 16 14 132574 14 1450101785
+- 0 0
+91.124.6.7
+0 75 72 8076345 1 1450700921
+- 0 0
+194.44.207.34
+0 19 19 534875 1 1450092015
+- 0 0
+66.249.67.160
+0 20 14 126377 19 1449229195
+- 0 0
+66.249.67.169
+0 14 9 83445 11 1449182821
+- 0 0
+104.209.188.207
+0 2 2 37978 1 1449657993
+- 0 0
+188.230.10.235
+0 24 24 1147427 1 1449513211
+- 0 0
+66.249.66.130
+0 42 40 333959 36 1451597894
+/ 0 0
+66.249.66.133
+0 1 1 8783 1 1450196136
+- 0 0
+66.249.67.178
+0 4 2 17946 3 1449236562
+- 0 0
+66.249.66.135
+0 37 33 298646 32 1451597667
+/ 0 0
+66.249.66.138
+0 47 37 319239 36 1451590904
+/ 0 0
+95.134.68.201
+0 149 71 17842602 3 1449746225
+- 0 0
+109.251.185.253
+0 98 96 15631105 2 1450262130
+- 0 0
+66.249.66.143
+0 50 43 403985 34 1451596454
+/ 0 0
+66.249.67.187
+0 3 2 17749 3 1449227354
+- 0 0
+5.255.253.83
+0 1 0 193 1 1451055489
+- 0 0
+66.249.66.151
+0 49 44 381542 39 1451595894
+/ 0 0
+95.134.23.225
+0 4 4 35120 3 1449241340
+- 0 0
+66.249.78.199
+0 21 16 137326 18 1450093738
+- 0 0
+91.124.255.138
+0 90 71 2972441 1 1450281620
+- 0 0
+178.93.148.76
+0 61 60 5332511 1 1449267311
+- 0 0
+178.93.148.77
+0 61 61 5825315 1 1450991232
+- 0 0
+93.75.204.248
+0 4 0 2380 1 1449002308
+- 0 0
+66.249.66.189
+0 47 42 304485 31 1451598348
+/ 0 0
+194.44.158.222
+0 5 4 68568 1 1450278248
+- 0 0
+91.124.45.157
+0 51 49 3203467 1 1449675990
+- 0 0
+95.134.69.22
+0 1 1 33641 1 1450879414
+- 0 0
+95.134.72.170
+0 142 107 25807834 3 1449572512
+- 0 0
+46.146.14.108
+0 1 1 6271 1 1449164817
+- 0 0
+107.77.87.54
+0 1 0 193 1 1449211112
+- 0 0
+66.249.64.163
+0 18 11 108690 12 1450622877
+- 0 0
+66.249.64.169
+0 9 6 67753 8 1450624887
+- 0 0
+66.249.64.170
+0 13 9 94323 11 1451322143
+- 0 0
+194.44.30.24
+0 53 52 11224537 1 1449614714
+- 0 0
+95.108.132.167
+0 2 2 10422 2 1450420383
+- 0 0
+109.207.114.8
+0 2 0 386 1 1450823734
+- 0 0
+178.94.172.84
+0 19 18 714873 1 1449782991
+- 0 0
+5.164.192.55
+0 1 1 4730 1 1449164818
+- 0 0
+95.134.4.79
+0 7 7 123571 1 1450869484
+- 0 0
+130.193.51.109
+0 1 1 5151 1 1450463817
+- 0 0
+46.118.135.52
+0 19 19 616686 1 1450964078
+- 0 0
+194.44.136.82
+0 973 667 57219570 2 1451402651
+- 0 0
+91.124.99.177
+0 19 19 711829 1 1449250720
+- 0 0
+93.77.129.241
+0 1 1 25424 0 0
+- 0 0
+66.249.73.133
+0 38 32 273989 27 1451129074
+- 0 0
+64.246.161.190
+0 1 1 8780 1 1450693355
+- 0 0
+66.249.73.142
+0 31 21 166092 23 1451131093
+- 0 0
+193.124.57.139
+0 1 1 35038 1 1448981488
+- 0 0
+193.53.89.125
+0 27 27 4260718 1 1449666358
+- 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+141.8.142.28
+0 1 1 5884 1 1451586448
+/ 0 0
+188.163.73.69
+0 17 17 499027 1 1451570988
+/ 0 0
+66.249.69.108
+0 9 9 93965 7 1451582095
+/ 0 0
+66.249.69.116
+0 8 8 64105 5 1451581231
+/ 0 0
+66.249.69.121
+0 2 2 17934 2 1451561879
+/ 0 0
+66.249.69.10
+0 3 3 23914 3 1451572102
+/ 0 0
+66.249.69.18
+0 3 3 22139 2 1451571889
+/ 0 0
+66.249.69.26
+0 1 1 6354 1 1451572428
+/ 0 0
+66.249.66.130
+0 4 4 32097 4 1451597894
+/ 0 0
+66.249.66.135
+0 3 3 14552 1 1451597667
+/ 0 0
+66.249.66.138
+0 4 4 29946 3 1451590904
+/ 0 0
+66.249.66.143
+0 8 8 71975 3 1451596454
+/ 0 0
+66.249.66.151
+0 4 3 25398 3 1451595894
+/ 0 0
+66.249.66.189
+0 1 1 5612 1 1451598348
+/ 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30/37-konkurs-na-zamishchennya-vakantnoji-posadi-direktora-ldmu-im-s-lyudkevicha
+1 1
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/narodni-instrumenti
+1 4
+http://www.ldmu-lyudkevych.com.ua/images/vid_chor_cond/choral_conducting_02.jpg
+1 1
+http://ldmu-lyudkevych.com.ua/index.php/component/content/article/12-studentam/27-zovnishne-nezalezhne-otsinyuvannya
+1 1
+- (Direct Request)
+0 1463
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti/41-polozhennya-pro-prijmalnu-komisiyu-lvivskogo-derzhavnogo-muzichnogo-uchilishcha-imeni-s-lyudkevicha-na-2016-2017-navchalnij-rik
+1 11
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/big-bend
+1 4
+http://www.ldmu-lyudkevych.com.ua/administrator/
+1 128
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/khor-vikladachiv-uchilishcha
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/home/istoriya
+1 11
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30/video
+1 59
+http://www.yandex.ua/clck/jsredir
+0 1
+https://www.google.com.ua/
+0 59
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/khor-vikladachiv-uchilishcha
+1 8
+http://www.ldmu-lyudkevych.com.ua/index.php/component/content/article/12-studentam/27-zovnishne-nezalezhne-otsinyuvannya
+1 1
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/studentskij-mishanij-khor
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/zhinochij-khor-divochi-mriji
+1 41
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/kontsertmejsterskij-klas
+1 5
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti/38-sertifikat-pro-akreditatsiyu
+1 3
+http://ldmu-lyudkevych.com.ua/index.php/component/users/
+1 13
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/zagalne-fortepiano
+1 7
+http://ldmu-lyudkevych.com.ua/index.php/home/administratsiya/8-golovna
+1 30
+http://ldmu-lyudkevych.com.ua/index.php
+1 141
+http://www.ldmu-lyudkevych.com.ua/media/system/css/modal.css
+1 4
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/zagalne-fortepiano
+1 19
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/solnij-spiv
+1 18
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30/video
+1 54
+http://ldmu-lyudkevych.com.ua/index.php/abiturientovi
+1 30
+http://www.ldmu-lyudkevych.com.ua/index.php/home/administratsiia
+1 7
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/narodni-instrumenti
+1 47
+http://www.ldmu-lyudkevych.com.ua/index.php
+1 69
+http://ldmu-lyudkevych.com.ua/index.php/dokumenti/39-litsenziya
+1 3
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30/37-konkurs-na-zamishchennya-vakantnoji-posadi-direktora-ldmu-im-s-lyudkevicha
+1 14
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/strunni-instrumenti
+1 1
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/viddil-dukhovikh-instrumentiv
+1 12
+http://www.ldmu-lyudkevych.com.ua/index.php/component/content/article/11-statti/24-rozklad-konsultatsij-dlya-vstupnikiv
+1 4
+http://www.ldmu-lyudkevych.com.ua/
+1 1945
+http://ldmu-lyudkevych.com.ua/templates/shaper_helix3/css/template.css
+1 20
+http://ldmu-lyudkevych.com.ua/index.php/dokumenti/40-dodatok-do-litsenziji
+1 6
+http://www.ldmu-lyudkevych.com.ua/plugins/content/videobox/css/videobox.css
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/muzichne-mistetstvo-estradi
+1 15
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04
+1 64
+http://www.google.com.ua/search
+0 2
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/teoriya-muziki
+1 49
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/spetsialne-fortepiano
+1 46
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16
+1 216
+https://www.google.ca/
+0 1
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30
+1 12
+http://www.ldmu-lyudkevych.com.ua/templates/shaper_helix3/css/template.css
+1 41
+http://www.ldmu-lyudkevych.com.ua/media/jui/css/chosen.css
+1 12
+http://www.ldmu-lyudkevych.com.ua/media/jui/css/jquery.minicolors.css
+1 1
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/zagalnoosvitni-distsiplini
+1 14
+http://www.google.com.ua/url
+0 22
+http://www.ldmu-lyudkevych.com.ua/index.php/component/content/article/11-statti/25-vimogi-z-fakhovikh-ispitiv-2015
+1 1
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/simfonichnij-ta-kamernij-orkestri
+1 36
+http://ldmu-lyudkevych.com.ua/index.php/home/istoriya
+1 18
+https://www.google.com.ua
+0 7
+http://www.ldmu-lyudkevych.com.ua/index.php/studentam
+1 46
+http://www.ldmu-lyudkevych.com.ua/index.php/home/administratsiya
+1 93
+http://ldmu-lyudkevych.com.ua/index.php/novini/doshka-ogoloshen/17-ogoloshennya/38-musimo-mati-ukrajinu
+1 1
+http://ldmu-lyudkevych.com.ua/index.php/home/administratsiya
+1 8
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16
+1 23
+http://94.153.128.1:848/254290/
+0 2
+http://ldmu-lyudkevych.com.ua/index.php/studentam
+1 7
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-10-18-30
+1 5
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/kontsertmejsterskij-klas
+1 13
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/muzichne-mistetstvo-estradi
+1 51
+https://www.google.com/
+0 1
+http://www.ldmu-lyudkevych.com.ua/index.php/home/shkola
+1 16
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/orkestr-narodnikh-instrumentiv
+1 3
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/kapela-banduristok
+1 2
+http://www.google.com.ua/
+0 89
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/dukhovij-orkestr
+1 13
+http://ldmu-lyudkevych.com.ua/
+1 226
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/strunni-instrumenti
+1 15
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/kapela-banduristok
+1 22
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti
+1 79
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/simfonichnij-ta-kamernij-orkestri
+1 5
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/khor-vikladachiv-uchilishcha/10-tvorchi-kolektivi
+1 23
+http://www.ldmu-lyudkevych.com.ua/templates/shaper_helix3/css/font-awesome.min.css
+1 61
+http://ldmu-lyudkevych.com.ua/index.php/dokumenti
+1 8
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/solnij-spiv
+1 108
+http://ldmu-lyudkevych.com.ua/templates/shaper_helix3/css/font-awesome.min.css
+1 23
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti/39-litsenziya
+1 2
+http://ldmu-lyudkevych.com.ua/index.php/dokumenti/38-sertifikat-pro-akreditatsiyu
+1 4
+http://www.ldmu-lyudkevych.com.ua/index.php/component/content/article/12-studentam/26-kudi-piti-vchitis
+1 1
+http://www.ldmu-lyudkevych.com.ua/plugins/system/helix3/assets/css/font-awesome.min.css
+1 6
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/zagalnoosvitni-distsiplini/9-viddili-uchilishcha
+1 34
+http://www.ldmu-lyudkevych.com.ua/index.php/abiturientovi/11-statti/24-rozklad-konsultatsij-dlya-vstupnikiv
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/component/content/article/10-tvorchi-kolektivi/25-rozklad-konsultatsij-dlya-vstupnikiv
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/abiturientovi
+1 445
+http://www.ldmu-lyudkevych.com.ua/index.php/novini/internet-zhurnal/20-zhittya-muzichnogo-uchilishcha/65-tsinnij-dovidnik-pro-kontsertmejsteriv-ldmu-im-s-p-lyudkevicha
+1 4
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/spetsialne-fortepiano/9-viddili-uchilishcha
+1 34
+http://www.ldmu-lyudkevych.com.ua/index.php/studentam/12-studentam/27-zovnishne-nezalezhne-otsinyuvannya
+1 1
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-31-09-28-04/orkestr-narodnikh-instrumentiv
+1 5
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/spetsialne-fortepiano
+1 7
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti/42-vimogi-z-fakhovikh-ispitiv-dlya-vstupnikiv-do-ldmu-im-s-p-lyudkevicha
+1 49
+http://www.ldmu-lyudkevych.com.ua/administrator/index.php
+1 1383
+http://www.ldmu-lyudkevych.com.ua/index.php/dokumenti/40-dodatok-do-litsenziji
+1 2
+http://whois.domaintools.com/ldmu-lyudkevych.com.ua
+1 2
+http://ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/khorove-diriguvannya
+1 73
+http://www.ldmu-lyudkevych.com.ua/administrator/templates/isis/css/template.css
+1 12
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/teoriya-muziki
+1 2
+http://www.ldmu-lyudkevych.com.ua/index.php/2015-10-30-22-46-16/viddil-dukhovikh-instrumentiv
+1 53
+http://ldmu-lyudkevych.com.ua/index.php/novini/doshka-ogoloshen/17-ogoloshennya/41-konkurs-na-zamishchennya-vakantnoji-posadi-direktora-ldmu-im-s-lyudkevicha
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 OPR/33.0.1990.131
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 417
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T231 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Safari/53
+0 19
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google Favicon
+0 2
+Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+0 27
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 56
+Googlebot-Image/1.0
+0 3
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.17
+0 82
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 24
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/37.7549; U; ru) Presto/2.12.423 Version/12.16
+0 49
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 YaBrowser/15.10.2454.3865 Safari/537
+0 17
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 95
+Mozilla/5.0 (Linux; Android 4.4.2; IQ4415 Quad Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobil
+0 37
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2580.0 Safari/537.36
+0 34
+Mozilla/5.0 (Linux; U; Android 4.2.2; uk-ua; Lenovo A3500-F Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 M
+0 63
+Mozilla/5.0 (Windows NT 5.1; rv:42.0) Gecko/20100101 Firefox/42.0
+0 119
+Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1
+0 84
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 15
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 21
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 265
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 89
+Mozilla/5.0 (Linux; Android 5.1; m2 note Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.11
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 59
+Mozilla/5.0 (Linux; U; Android 4.4.2; ru-RU; Lenovo A338t Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 OP
+0 29
+Opera/9.80 (Windows NT 6.1; U; es-ES) Presto/2.9.181 Version/12.00
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 OPR/34.0.2036.25
+0 93
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 883
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 104
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N8000 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.76 Safari/5
+0 37
+Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A338t Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobi
+0 46
+Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A3500-F Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Saf
+0 101
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.11
+0 1
+Mozilla/5.0 (Linux; Android 5.1; MZ-m2 note Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214
+0 18
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36
+0 90
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 19
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Sa
+0 158
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.11
+0 18
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 19
+Mozilla/5.0 (Linux; Android 4.3; ME302C Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.94 Safari/537.3
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36
+0 41
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+0 53
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+0 268
+Mozilla/5.0 (Windows NT 6.1; rv:42.0) Gecko/20100101 Firefox/42.0
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; K012 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Safari/537.3
+0 23
+Mozilla/5.0 (Linux; U; Android 4.0.3; uk-ua; LG-P705 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 19
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 21
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 YaBrowser/15.10.2454.3865 Sa
+0 186
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 111
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 705
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 88
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36
+0 336
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 273
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+0 366
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 19
+Mozilla/5.0 (Linux; Android 4.2.2; ImSmart 1.40 V2 Build/JDQ39) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mo
+0 21
+Opera/9.80 (Android; Opera Mini/13.0.2036/37.7549; U; uk) Presto/2.12.423 Version/12.16
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 18
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 1241
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 800
+Opera/9.80 (Macintosh; Intel Mac OS X; Opera Mobi/27; U; en) Presto/2.4.18 Version/10.00
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115
+0 3
+# End Of Table - agents
+# -search strings- 
+ю. наумов диригент симфонічного оркестру
+1
+тюппа алла іванівна
+1
+наконечна марія йосипівна бандуристка
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
